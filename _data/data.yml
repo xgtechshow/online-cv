@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: 老猫
+    tagline: 全站开发
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,7 +63,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: 教育背景
     info:
       - degree: MSc in Computer Science
         university: University of London
@@ -88,7 +88,7 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: 工作经验
     info:
       - role: Lead Developer
         time: 2015 - Present
